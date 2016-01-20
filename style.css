@@ -1,0 +1,22 @@
+body {
+  font-family: 'Oswald', sans-serif;
+  margin-top: 20px;
+  background-image: url("wallpaper.jpg");
+  background-repeat: repeat-x;
+  margin-bottom: 30px;
+}
+
+.container {
+  background-color: white;
+}
+
+.headerimage {
+  width: 50%;
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.center {
+  text-align: center;
+}
